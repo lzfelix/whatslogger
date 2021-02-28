@@ -1,6 +1,6 @@
 # Whatslogger - Whatsapp Logger
 
-_Whatsapp has a limit on the size of the logged chat history, so I wrote this bot to overcome such a silly limitation._
+_Whatsapp has a limit on the size of the logged chat history, so I wrote this bot to overcome such a silly limitation. I'm just leaving this here before I lose it._
 
 ## How to use
 - This software is compatible with Firefox browser only, so it should be installed;
@@ -25,7 +25,8 @@ _Whatsapp has a limit on the size of the logged chat history, so I wrote this bo
 
 ## Disclaimers
 - Use it at your own risk, I'm not sure if this violates WhatsApp terms of use :innocent:
-- This is highly experimental and done for fun. The code can be improved in several ways.
+- This is highly experimental and done for fun. The code can be improved in several ways;
+- I'm just leaving this here before I lose it.
 
 ## Inner workings and curiosity
 - Interface with whatsapp interface is done via Selenium, but as soon as the code touches the messages, the code is downloaded as HTML and parsed by BeautifulSoup. This is because the latter is much faster in parsing HTML due it's purpouse, whereas it cannot trigger Whatsapp's infinity scroll;
